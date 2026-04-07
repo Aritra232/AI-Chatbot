@@ -23,6 +23,7 @@ A ChatGPT-style conversational AI backend built with FastAPI, powered by Google 
 ## ⚙️ Setup Instructions
 1. Clone Repository
 git clone https://github.com/your-username/ai-chatbot-fastapi.git
+
 cd ai-chatbot-fastapi
 2. Create .env File
 GEMINI_API_KEY=your_api_key_here
