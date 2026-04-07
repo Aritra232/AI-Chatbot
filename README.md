@@ -12,6 +12,7 @@ Basic rate limiting (2 seconds per session)
 Docker & Docker Compose support
 
 🏗️ Project Structure
+
 app/
 │── main.py
 │
@@ -32,8 +33,7 @@ app/
 Dockerfile
 docker-compose.yml
 .env.example
-README.
-
+README.md
 
 
 ⚙️ Setup Instructions
