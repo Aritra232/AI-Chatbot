@@ -21,19 +21,27 @@ A ChatGPT-style conversational AI backend built with FastAPI, powered by Google 
 
 
 ## ⚙️ Setup Instructions
-1. Clone Repository
-git clone https://github.com/your-username/ai-chatbot-fastapi.git
-cd ai-chatbot-fastapi
-2. Create .env File
-GEMINI_API_KEY=your_api_key_here
-3. Run with Docker (Recommended)
-docker-compose up --build
+1. Clone Repository:
+   
+  git clone https://github.com/Aritra232/AI-Chatbot.git
+
+ cd ai-chatbot-fastapi
+
+2. Create .env File:
+   
+  GEMINI_API_KEY=your_api_key_here
+
+3. Run with Docker (Recommended):
+
+   docker-compose up --build
 
 API will be available at: https://aistudio.google.com
 
-4. Run Without Docker
-pip install -r requirements.txt
-uvicorn app.main:app --reload
+4. Run Without Docker:
+
+    pip install -r requirements.txt
+   
+   uvicorn app.main:app --reload
 
 ## 📡 API Endpoints
 🔹 Health Check
