@@ -30,7 +30,6 @@ def chat(request: ChatRequest):
         session_id = request.session_id
         user_message = request.message
 
-        # 🔥 RATE LIMITING (Bonus Step 3)
         current_time = time()
 
         if session_id in request_log:
