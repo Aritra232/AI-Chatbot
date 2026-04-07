@@ -25,7 +25,6 @@ A ChatGPT-style conversational AI backend built with FastAPI, powered by Google 
    
   git clone https://github.com/Aritra232/AI-Chatbot.git
 
- cd ai-chatbot-fastapi
 
 2. Create .env File:
    
