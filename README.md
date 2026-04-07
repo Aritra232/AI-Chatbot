@@ -23,7 +23,7 @@ A ChatGPT-style conversational AI backend built with FastAPI, powered by Google 
 ## ⚙️ Setup Instructions
 1. Clone Repository:
    
-  git clone https://github.com/your-username/ai-chatbot-fastapi.git
+  git clone https://github.com/Aritra232/AI-Chatbot.git
 
  cd ai-chatbot-fastapi
 
